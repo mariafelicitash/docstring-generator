@@ -1,0 +1,14 @@
+[project]
+name = "docstring-generator"
+version = "0.1.0"
+description = "AST-powered Python docstring generator using local LLM inference."
+authors = [
+    {name = "YOUR_NAME"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "."
+]
