@@ -1,0 +1,7 @@
+transformers
+torch
+accelerate
+streamlit
+pandas
+numpy
+sentencepiece
